@@ -5,7 +5,7 @@ from django.urls import reverse_lazy, reverse
 from django.views import View
 from .models import Article
 from .forms import CommentForm
-from django.views.generic.detail import SingleObjectMixin  # new
+from django.views.generic.detail import SingleObjectMixin
 
 
 class ArticleListView(LoginRequiredMixin, ListView):
