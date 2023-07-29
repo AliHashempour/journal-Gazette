@@ -1,7 +1,8 @@
 # journal-Gazette
 
-This project is a newspaper site, developed with [Python](https://www.python.org/) Programming Language and
-[Django](https://github.com/django/django) framework.
+This project is a newspaper site developed with [Python](https://www.python.org/) Programming Language and
+[Django](https://github.com/django/django) framework, using [PostgreSQL](https://www.postgresql.org/) 
+database to store data.
 
 ## features
 
