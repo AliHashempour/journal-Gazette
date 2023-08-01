@@ -38,5 +38,5 @@ $ docker-compose exec web python manage.py createsuperuser
 ```
 
 After these steps, you can access the website by navigating to `http://localhost:8000/` in your web browser.   
-and the admin site can be accessed by navigating to `http://localhost:8000/admin/` and entering the superuser
+The admin site can be accessed by navigating to `http://localhost:8000/admin/` and entering the superuser
 credentials.
